@@ -1,5 +1,5 @@
 import java.util.*;
-class CombinationalCircuit
+class userguide
 {
 
 static String dec2bin(int i)
